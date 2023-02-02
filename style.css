@@ -99,6 +99,11 @@ img {
   height: auto;
 }
 
+p {
+  margin-bottom: 20px;
+  }
+
+
 @media (min-width: 600px) {
   header nav a {
     padding: 10px;

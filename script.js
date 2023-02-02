@@ -10,3 +10,10 @@
 //   button.style.transition = "background-image 1s linear";
 //   button.style.backgroundImage = "none";
 // });
+
+
+// document.getElementById("myButton").addEventListener("click", function() {
+//     alert("HAHAHA!");
+//   });
+  
+
